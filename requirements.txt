@@ -1,0 +1,12 @@
+streamlit==1.30.0
+yt-dlp==2024.8.1
+assemblyai==0.31.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.2
+openai==0.27.2
+numpy==1.22.4
+pandas==1.4.3
+altair==4.2.2
+ffmpeg-python==0.2.0
+
+requests~=2.32.3
